@@ -1,5 +1,7 @@
 theme: minima
 title: 0xprivsec
-url: https://0xprivsec.github.io
+url: 0xprivsec.github.io
 disqus:
   shortname: my_disqus_shortname
+plugins:
+  - jemoji
