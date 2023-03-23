@@ -1,2 +1,5 @@
 theme: minima
-title: testpages
+title: 0xprivsec
+url: https://0xprivsec.github.io
+disqus:
+  shortname: my_disqus_shortname
