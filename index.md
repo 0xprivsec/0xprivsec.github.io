@@ -1,7 +1,13 @@
 ---
-title: 0xprivsec
+title: Privacy & Security
 ---
 
-# Oxprivsec Blog
-<br>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Hey there! I'm 0xprivsec, and I want to learn more about privacy and security. I love technology, but I'm also pretty paranoid about all the ways it can be used to track and control us. That's why I'm on a mission to learn as much as I can about keeping myself and my data safe. <br /><br />
+
+Recently, I decided to take the plunge and install LineageOS on a old phone. It's an open-source operating system based on Android that has a bunch of cool features for privacy and security. I'm still figuring it all out, but I'm excited to see what it can do.<br /><br />
+
+Along with LineageOS, I also want to learn more about security, CTF (Capture the Flag), and hacking. I'm not an expert by any means, but I think it's important to know how systems work and how they can be compromised. Plus, it's just really interesting stuff.<br /><br />
+
+I'm using this blog as a sort of notepad to keep track of what I'm learning, but I also want to share it with anyone who might be interested. If you're into privacy, security, or just want to learn more about these topics, then stick around! I hope I can help you out in some way, and I'm always open to feedback and suggestions.<br /><br />
+
+Happy Hacking :smile:
