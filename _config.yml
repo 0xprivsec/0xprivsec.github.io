@@ -1,7 +1,7 @@
 theme: minima
 title: 0xprivsec
 description: >
-  This blog is written by 0xprivsec, who is passionate about privacy and security. I hope to share experiences and insights with others who might be interested in these topics and to provide tips on how to keep personal data safe.
+  This blog is written by 0xprivsec, I'm passionate about privacy and security. I hope to share experiences and insights with others who might be interested in these topics and to provide tips on how to keep personal data safe.
   
 plugins:
   - jemoji
