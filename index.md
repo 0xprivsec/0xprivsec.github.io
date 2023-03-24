@@ -12,4 +12,4 @@ I'm using this blog as a sort of notepad to keep track of what I'm learning, but
 
 Happy Hacking :smile:
 <br />
-![privacy](/img/camera.jpeg)
+![privacy](/img/camera.jpg)
