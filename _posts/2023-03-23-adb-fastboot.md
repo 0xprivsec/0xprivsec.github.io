@@ -33,4 +33,5 @@ fastboot boot <recovery image>: Boots the device into a custom recovery like TWR
 <br />
 Of course, there are many more ADB and Fastboot commands that you can use, but these are just some examples to get you started.
 <br />
+
 In conclusion, ADB and Fastboot are two powerful command-line tools that allow you to communicate with and control an Android device from your computer. They're essential for anyone who wants to tinker with their device beyond the basic user level, and they can help you unlock the full potential of your Android device. If you're interested in learning more, there are plenty of online resources and forums where you can find more information and connect with other Android enthusiasts.
