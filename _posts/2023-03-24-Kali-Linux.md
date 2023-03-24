@@ -4,7 +4,6 @@ layout: post
 categories: Security
 ---
 # Kali Linux
-
 Kali Linux is a popular Linux distribution that's designed specifically for penetration testing and digital forensics. It's based on Debian and comes preloaded with a wide range of tools and utilities that are useful for security testing and analysis. In this post, we'll go over what Kali Linux is, what it's used for, and how you can use it.
 <br /><br />
 As mentioned, Kali Linux is primarily used for penetration testing and digital forensics. Penetration testing involves simulating attacks on computer systems and networks in order to identify vulnerabilities and weaknesses. Digital forensics, on the other hand, involves analyzing digital evidence in order to investigate cybercrime and other digital incidents.
