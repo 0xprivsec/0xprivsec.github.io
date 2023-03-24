@@ -5,7 +5,7 @@ layout: post
 categories: Privacy
 ---
 # LineageOS
-![LineageOS Logo](img/lineageos.PNG) <br />
+![LineageOS Logo](/img/lineageos.PNG) <br />
 LineageOS is an open-source operating system based on Android that offers a streamlined, customizable experience. With a focus on privacy and security, LineageOS includes features like Privacy Guard to control app permissions and prevent data leaks, as well as regular security updates to keep your device protected. <br />
 
 One of the best things about LineageOS is the level of customization it offers. You can tweak everything from the look of your home screen to the behavior of your device's hardware buttons, and even install custom themes and icon packs for a truly personalized experience.<br />
