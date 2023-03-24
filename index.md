@@ -1,5 +1,5 @@
 ---
-title: Privacy & Security
+title: $ whoami
 ---
 
 Hey there! I'm 0xprivsec, and I want to learn more about privacy and security. I love technology, but I'm also pretty paranoid about all the ways it can be used to track and control us. That's why I'm on a mission to learn as much as I can about keeping myself and my data safe. <br />
