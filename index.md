@@ -11,3 +11,5 @@ Along with LineageOS, I also want to learn more about security, CTF (Capture the
 I'm using this blog as a sort of notepad to keep track of what I'm learning, but I also want to share it with anyone who might be interested. If you're into privacy, security, or just want to learn more about these topics, then stick around! I hope I can help you out in some way, and I'm always open to feedback and suggestions.<br />
 
 Happy Hacking :smile:
+<br />
+![privacy](/img/camera.jpeg)
