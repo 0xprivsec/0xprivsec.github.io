@@ -1,4 +1,8 @@
 theme: minima
 title: 0xprivsec
+description: >
+  This blog is written by 0xprivsec, who is passionate about privacy and security. 
+  I'm currently exploring topics such as LineageOS, security, CTF (Capture the Flag), and hacking, and using the blog as a notepad to keep track of their learning. I hope to share experiences and insights with others who might be interested in these topics and to provide tips on how to keep personal data safe.
+  
 plugins:
   - jemoji
