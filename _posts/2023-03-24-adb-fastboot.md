@@ -2,6 +2,7 @@
 title: "ADB and Fastboot"
 date: 2023-03-23
 layout: post
+categories: Privacy
 ---
 
 # ADB and Fastboot
