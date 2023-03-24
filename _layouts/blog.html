@@ -1,5 +1,6 @@
 ---
 layout: base
+permalink: /Blog/
 ---
 <article class="post">
 
@@ -19,6 +20,7 @@ layout: base
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      {{ post.excerpt }}
     </article>
     {% endfor %}
   </div>
