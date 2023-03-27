@@ -1,5 +1,10 @@
-
-
+---
+title: "How to unlock bootloader on Xiaomi deivces"
+date: 2023-03-27
+layout: post
+categories: Privacy
+---
+# How to unlock bootloader on Xiaomi deivces
 Xiaomi devices are known for their affordability and top-notch specifications. However, unlocking the bootloader on a Xiaomi device can be quite tricky. The bootloader is the first thing that loads when you turn on your device, and it's responsible for loading the operating system. By unlocking the bootloader, you can gain root access, install custom ROMs, and perform other advanced tasks. In this blog post, we will guide you on how to unlock the bootloader on a Xiaomi device.
 
 Before we proceed, let's take a look at the prerequisites:
